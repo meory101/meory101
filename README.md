@@ -4,11 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
 <h3 align="center">Full Stack Mobile Developer Artifactual Intelligent Engineer</h3>
 
-<a href="https://github.com/alizayayesha">
 
-<img alt="Cute count" src="http://moe-count.glitch.me/get/@AlizayAyesha?theme=rule34"/>
-
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=0e75b6&style=flat" alt="meory101" /> </p>
 
