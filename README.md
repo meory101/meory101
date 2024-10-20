@@ -1,17 +1,26 @@
-
 ## Hi there 👋
 
 # Nour-Othman
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
 <h3 align="center">Full Stack Mobile Developer | Artifactual Intelligent Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=6a0dad&style=flat" alt="meory101" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=6a0dad&style=flat" alt="meory101" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meory101&theme=purple" alt="meory101" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=meory101&theme=juicyfresh&column=7" alt="meory101" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=6a0dad" alt="" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=6a0dad" alt="" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌼 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -38,10 +47,36 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meory101&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="meory101" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meory101&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="meory101" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meory101&show_icons=true&locale=en" alt="meory101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meory101&theme=default" alt="meory101" /></p>
+
+<style>
+  body {
+    background: linear-gradient(135deg, #e1bee7, #6a0dad);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    animation: backgroundAnimation 10s infinite alternate;
+  }
+
+  @keyframes backgroundAnimation {
+    0% { background-color: #e1bee7; }
+    100% { background-color: #6a0dad; }
+  }
+
+  h3 {
+    animation: flowerAnimation 5s infinite alternate;
+  }
+
+  @keyframes flowerAnimation {
+    0% { transform: scale(1); }
+    100% { transform: scale(1.1); }
+  }
+</style>
 
 <h3 align="center">🌸 Thank you for visiting! 🌸</h3>
