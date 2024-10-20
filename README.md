@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
 
-<h3 align="center">Full Stack Mobile Developer | Artificial Intelligence Engineer</h3>
+<h3 align="center"> Mobile Developer | Artificial Intelligence Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=8A2BE2&style=flat" alt="meory101" />
