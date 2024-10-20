@@ -1,40 +1,57 @@
-# 🌸 Welcome to My Aesthetic GitHub! 🌸
+<!-- Capsule Render Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-![Animated Purple Background](https://media.giphy.com/media/3o6Mb8W1PqD2gVdO4U/giphy.gif) <!-- Replace with an animated purple GIF -->
+<h1 align="center">Hi there, I'm Nour Othman 👋</h1>
 
-## 💻 About Me
+<h3 align="center">Full Stack Mobile Developer | Artificial Intelligence Engineer</h3>
 
-I'm a passionate developer who loves coding and creating beautiful applications. 🌈✨  
-I focus on making my projects not only functional but also aesthetically pleasing!
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=0e75b6&style=flat" alt="meory101" /> 
+</p>
 
-## 🌼 Skills
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=meory101" alt="meory101" />
+  </a>
+</p>
 
-- 🌸 **Languages**: 
-  - ![Python](https://media.giphy.com/media/3o7buifYDUyXnB5d1G/giphy.gif) <!-- Animated Python Logo -->
-  - ![JavaScript](https://media.giphy.com/media/l0MYGZp0l9s7KZ4g0/giphy.gif) <!-- Animated JavaScript Logo -->
-  - ![HTML5](https://media.giphy.com/media/3o6ZtqD4P4Xc4Jb5qY/giphy.gif) <!-- Animated HTML5 Logo -->
-  - ![CSS3](https://media.giphy.com/media/l0Iy6P5Z0w7i2fG3O/giphy.gif) <!-- Animated CSS3 Logo -->
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
-- 🌼 **Frameworks**: 
-  - ![React](https://media.giphy.com/media/26BRz1mA3Yd0b3Z8E/giphy.gif) <!-- Animated React Logo -->
-  - ![Flutter](https://media.giphy.com/media/3o6Ztgjx3b0v7hFq1C/giphy.gif) <!-- Animated Flutter Logo -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+  </a>
+  <!-- Add more tool icons here -->
+</p>
 
-## 🌷 My Projects
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meory101&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="meory101" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meory101&show_icons=true&locale=en" alt="meory101" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meory101&theme=default" alt="meory101" />
+</div>
 
-- 🌸 [**Project One**](#) - A brief description of your project.
-- 🌼 [**Project Two**](#) - A brief description of your project.
-- 🌺 [**Project Three**](#) - A brief description of your project.
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+  <b>NOUR OTHMAN</b>
+  <img src="https://komarev.com/ghpvc/?username=meory101&color=brightgreen" alt="Profile views" style="display:inline-block;">
+</p>
 
-## 🌈 Fun Facts
-
-- I love **flowers** and have a collection of over **50 types**! 🌼🌻
-- My favorite color is **purple**! 💜
-- I enjoy **coding** at night while listening to lo-fi music. 🎶
-
-## 💌 Let's Connect!
-
-Feel free to reach out to me on:
-
-- [Twitter](#) 🐦
-- [LinkedIn](#) 💼
-- [Instagram](#) 📸
+<!-- Bottom Header -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
