@@ -69,13 +69,22 @@
     100% { background-color: #6a0dad; }
   }
 
-  h3 {
+  h1, h3 {
     animation: flowerAnimation 5s infinite alternate;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
   @keyframes flowerAnimation {
     0% { transform: scale(1); }
-    100% { transform: scale(1.1); }
+    100% { transform: scale(1.05); }
+  }
+
+  img {
+    transition: transform 0.3s;
+  }
+
+  img:hover {
+    transform: scale(1.1);
   }
 </style>
 
