@@ -28,8 +28,7 @@
 
 <!-- Butterfly animation section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="200" height="100" alt="butterfly gif"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" height="100" alt="sparkle animation"/>
+  <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="width: 100%;" height="100" alt="butterfly gif"/>
 </p>
 
 ### 🛠️ Languages and Tools:
