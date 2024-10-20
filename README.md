@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
 
-<h3 align="center">  Mobile Developer | Artificial Intelligence Engineer</h3>
+<h3 align="center">Full Stack Mobile Developer | Artificial Intelligence Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=8A2BE2&style=flat" alt="meory101" />
@@ -107,4 +107,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ji7KUUC4T4okA/giphy.gif" width="300" height="300" alt="flower gif"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif" width="100" height="100" alt="butterfly gif"/>
 </p>
