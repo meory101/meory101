@@ -1,5 +1,5 @@
 <!-- Capsule Render Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
 <h1 align="center">Hi there, I'm Nour Othman 👋</h1>
 
@@ -52,6 +52,26 @@
   <b>NOUR OTHMAN</b>
   <img src="https://komarev.com/ghpvc/?username=meory101&color=brightgreen" alt="Profile views" style="display:inline-block;">
 </p>
+
+<!-- Animated Unicorn and Flowers -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohhwJ6U2gQzB5iE5m/giphy.gif" width="100" height="100" style="animation: pulse 2s infinite;">
+  <img src="https://media.giphy.com/media/l3vR8D7hAT4O4LqV2/giphy.gif" width="100" height="100" style="animation: pulse 2s infinite;">
+</div>
+
+<style>
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
 
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
