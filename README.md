@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+Nour's+Profile!+🌸;Full-Stack+Mobile+Developer+%7C+AI+Engineer+🤖" alt="Typing SVG" width="1000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+Nour's+Profile!+🌸;Full-Stack+Mobile+Developer+%7C+AI+Engineer+🤖" alt="Typing SVG" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
