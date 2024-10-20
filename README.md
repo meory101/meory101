@@ -26,6 +26,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1047596647999422866/F476F35240D7FDC527CF237D47142A3BFCA6F970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000" height="500" alt="butterfly gif"/>
+</p>
+
 ### 🛠️ Languages and Tools:
 
 <p align="center">
@@ -105,10 +109,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Ji7KUUC4T4okA/giphy.gif" width="300" height="300" alt="flower gif"/>
-</p>
 
-<p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1047596647999422866/F476F35240D7FDC527CF237D47142A3BFCA6F970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100" height="100" alt="butterfly gif"/>
-</p>
+
