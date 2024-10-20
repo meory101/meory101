@@ -110,5 +110,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif" width="100" height="100" alt="butterfly gif"/>
+  <img src="https://tenor.com/view/heaven-butterfly-clouds-gif-25522736" width="100" height="100" alt="butterfly gif"/>
 </p>
