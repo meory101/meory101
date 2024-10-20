@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+Nour's+Profile!+🌸;Full-Stack+Mobile+Developer+%7C+AI+Engineer+🤖" alt="Typing SVG" width="100"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+Nour's+Profile!+🌸;Full-Stack+Mobile+Developer+%7C+AI+Engineer+🤖" alt="Typing SVG" width="1000"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
@@ -26,8 +26,10 @@
 
 ---
 
+<!-- Butterfly animation section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="1000" alt="butterfly gif"/>
+  <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="200" height="100" alt="butterfly gif"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" height="100" alt="sparkle animation"/>
 </p>
 
 ### 🛠️ Languages and Tools:
