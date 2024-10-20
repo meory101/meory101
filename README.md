@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1047596647999422866/F476F35240D7FDC527CF237D47142A3BFCA6F970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000" height="500" alt="butterfly gif"/>
+  <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="1000" height="500" alt="butterfly gif"/>
 </p>
 
 ### 🛠️ Languages and Tools:
