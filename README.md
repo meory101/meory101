@@ -12,11 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=8A2BE2&style=flat" alt="meory101" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meory101&theme=monokai&no-frame=true&no-bg=true&row=1&column=6" alt="meory101" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://twitter.com/" target="blank">
