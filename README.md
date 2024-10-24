@@ -9,20 +9,6 @@
 <h3 align="center">Mobile Developer | Artificial Intelligence Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meory101&label=Profile%20views&color=8A2BE2&style=flat" alt="meory101" />
-</p>
-
-
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-
----
-
-<!-- Butterfly animation section -->
-<p align="center">
   <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="width: 100%;" height="100" alt="butterfly gif"/>
 </p>
 
