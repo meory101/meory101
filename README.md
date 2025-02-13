@@ -4,6 +4,10 @@ look at this i put it on github as my main page ## Hi there 👋🍄🌸
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+Nour's+Profile!+🌸;Full-Stack+Mobile+Developer+%7C+AI+Engineer+🤖" alt="Typing SVG" width="1000"/>
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="width: 100%;" height="100" alt="butterfly gif"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nour Othman</h1>
 
 <h3 align="center">Mobile Developer | Artificial Intelligence Engineer</h3>
@@ -12,9 +16,7 @@ look at this i put it on github as my main page ## Hi there 👋🍄🌸
   <img src="https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif" width="width: 100%;" height="100" alt="butterfly gif"/>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="width: 100%;" height="100" alt="butterfly gif"/>
-</p>
+
 
 ### 🌸 Connect with me:
 
