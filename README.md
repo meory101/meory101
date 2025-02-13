@@ -13,8 +13,7 @@ look at this i put it on github as my main page ## Hi there 👋🍄🌸
 </p>
 
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/c4/ff/f0/c4fff0ad83693d40f17b1d7efed0cd84.gif](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsh1o32zamou9o3h7kxvj.jpg
-)" width="width: 100%;" height="100" alt="butterfly gif"/>
+  <img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="width: 100%;" height="100" alt="butterfly gif"/>
 </p>
 
 ### 🌸 Connect with me:
